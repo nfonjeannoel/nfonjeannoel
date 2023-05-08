@@ -8,7 +8,7 @@ As a Computer Engineering student in my third year out of a five-year program, I
 
 * 🌍  I'm based in Cameroon
 * ✉️  You can contact me at [nfonjeannoel1@gmail.com](mailto:nfonjeannoel1@gmail.com)
-* 🧠  I'm learning Django / Fast API
+* 🧠  I'm learning Django / Fast API / Vue js
 * 🤝  I'm open to collaborating on Technical and fun projects
 * ⚡  I'm secretely a tech wizard :)
 
