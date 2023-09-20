@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-As a Computer Engineering student in my third year out of a five-year program, I am learning about a wide range of subjects related to computer hardware and software design. This includes computer architecture, computer networks, data structures, algorithms, and programming languages. I have also learned about operating systems, database systems, computer security, and software engineering principles. I have gained a solid foundation in mathematics and science, and I am developing my skills in problem solving, critical thinking, and technical communication. As I continue to progress through my program, I have the opportunity to specialize in a particular area of interest and to apply my knowledge and skills through internships or real-world projects.
+As a Computer Engineering student in my fourth year out of a five-year program, I am learning about a wide range of subjects related to computer hardware and software design. This includes computer architecture, computer networks, data structures, algorithms, and programming languages. I have also learned about operating systems, database systems, computer security, and software engineering principles. I have gained a solid foundation in mathematics and science, and I am developing my skills in problem solving, critical thinking, and technical communication. As I continue to progress through my program, I have the opportunity to specialize in a particular area of interest and to apply my knowledge and skills through internships or real-world projects.
 
 * 🌍  I'm based in Cameroon
 * ✉️  You can contact me at [nfonjeannoel1@gmail.com](mailto:nfonjeannoel1@gmail.com)
