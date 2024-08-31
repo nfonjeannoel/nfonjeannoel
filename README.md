@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-As a Computer Engineering student in my fourth year out of a five-year program, I am learning about a wide range of subjects related to computer hardware and software design. This includes computer architecture, computer networks, data structures, algorithms, and programming languages. I have also learned about operating systems, database systems, computer security, and software engineering principles. I have gained a solid foundation in mathematics and science, and I am developing my skills in problem solving, critical thinking, and technical communication. As I continue to progress through my program, I have the opportunity to specialize in a particular area of interest and to apply my knowledge and skills through internships or real-world projects.
+As a Computer Engineering student in my 5th year out of a five-year program, I am learning about various computer hardware and software design subjects. This includes computer architecture, computer networks, data structures, algorithms, and programming languages. I have also learned about operating systems, database systems, computer security, and software engineering principles. I have gained a solid foundation in mathematics and science, and I am developing my skills in problem-solving, critical thinking, and technical communication. As I continue to progress through my program, I have the opportunity to specialize in a particular area of interest and to apply my knowledge and skills through internships or real-world projects.
 
 * 🌍  I'm based in Cameroon
 * ✉️  You can contact me at [nfonjeannoel1@gmail.com](mailto:nfonjeannoel1@gmail.com)
-* 🧠  I'm learning Django / Fast API / Vue js
+* 🧠  I'm learning every day
 * 🤝  I'm open to collaborating on Technical and fun projects
-* ⚡  I'm secretely a tech wizard :)
+* ⚡  I'm secretly a tech wizard :)
 
 <a href="https://www.github.com/nfonjeannoel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nfonjeannoel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/nfonjeannoel1" target="_blank" rel="noreferrer"><img
