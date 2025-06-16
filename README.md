@@ -6,7 +6,8 @@ Computer Engineer
 
 As a Computer Engineering student in my 5th year out of a five-year program, I am learning about various computer hardware and software design subjects. This includes computer architecture, computer networks, data structures, algorithms, and programming languages. I have also learned about operating systems, database systems, computer security, and software engineering principles. I have gained a solid foundation in mathematics and science, and I am developing my skills in problem-solving, critical thinking, and technical communication. As I continue to progress through my program, I have the opportunity to specialize in a particular area of interest and to apply my knowledge and skills through internships or real-world projects.
 
-* 🌍  I'm based in Cameroon
+* 🌍  I'm based in C
+* USA
 * ✉️  You can contact me at [nfonjeannoel1@gmail.com](mailto:nfonjeannoel1@gmail.com)
 * 🧠  I'm learning every day
 * 🤝  I'm open to collaborating on Technical and fun projects
